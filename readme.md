@@ -3,7 +3,7 @@ Il giocatore gioca contro il computer.
 Generare un numero random da 1 a 6, sia per il giocatore sia per il computer.
 Stabilire il vincitore, in base a chi fa il punteggio più alto.
 
-Salvo in due costanti (utente e AI) i numeri generati randomicamente
+Salvo in due costanti (utente e AI) i numeri generati randomicamente (da 1 a 6)
     se i numeri sono uguali
         si ha un pareggio
     se il numero dell'utente è maggiore di quello dell'AI
